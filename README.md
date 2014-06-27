@@ -3,4 +3,4 @@ pigy
 
 add vinz
 
-add astana
+add astana 2
